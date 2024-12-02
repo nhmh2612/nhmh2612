@@ -24,7 +24,7 @@ Here, you'll find projects and code related to my interests in **data science**,
 ---
 
 ## 📫 How to Reach Me:
-- 💌 Email: [nhmh2612@example.com](mailto:nhmh2612@gmail.com)  
+- 💌 Email: [nhmh2612@gmail.com](mailto:nhmh2612@gmail.com)  
 
 ---
 
