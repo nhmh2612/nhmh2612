@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @nhmh2612
 🇻🇳
 
-Welcome to my GitHub profile! ✨  
+Welcome to your GitHub profile!✨
+I see you’ve added a fun and friendly intro here. If you need any help with coding, projects, or anything else, feel free to ask! 😊
 ---
 
 ## 📫 How to Reach Me:
